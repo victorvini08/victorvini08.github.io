@@ -8,7 +8,7 @@ body{
 #part-one{
 	height: 1200px;
 	padding-top: 100px;
-	background: url("/home/aryan/Downloads/my_bg2.jpeg");
+	background: url("images/my_bg2.jpeg");
 	background-repeat: no-repeat;
 
 }
